@@ -1,4 +1,4 @@
-# Curso aprendizado MEAN Stack
+## Curso aprendizado MEAN Stack
 
 # Dependencias usadas para a configuração inicial
 - express / express-query-int
